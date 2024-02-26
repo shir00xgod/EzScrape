@@ -11,7 +11,7 @@ HTTP, SOCKS 4 & 5
 
 ## Installation:
 ```bash
-pkg update -y && pkg upgrade -y && apt update -y && apt upgrade -y && pkg install bash curl git binutils -y && git clone https://github.com/shir0xgod/EzScrape
+pkg update -y && pkg upgrade -y && apt update -y && apt upgrade -y && pkg install bash curl git binutils -y && git clone https://github.com/shir00xgod/EzScrape
 cd EzScrape && chmod +x scrape.sh && ./scrape.sh
 ```
 
