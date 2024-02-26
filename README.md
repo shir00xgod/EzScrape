@@ -17,7 +17,7 @@ cd EzScrape && chmod +x scrape.sh && ./scrape.sh
 
 ## Run
 ```bash
-cd EzScrape && chmod +x scrape.sh && ./scrape.sh <Protocol> <TimeOutInM. Ex: 5000>
+cd EzScrape && chmod +x scrape.sh && ./scrape.sh <Protocol> <TimeOutInMS. Ex: 5000>
 ```
 
 SUPPORTED TERMUX ONLY
